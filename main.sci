@@ -12,7 +12,7 @@ xlabel("X-axis");
 ylabel("Y-axis");
 zlabel("Z-axis");
 title("Saddle Surface: z = x^2 - y^2");
-
+//this code creates a hyperbolic paraboloid
 
 
 
